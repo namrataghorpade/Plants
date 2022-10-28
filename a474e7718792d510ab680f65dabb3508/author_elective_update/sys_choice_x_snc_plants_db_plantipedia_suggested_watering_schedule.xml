@@ -6,11 +6,15 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>MGOPW</sys_created_by>
             <sys_created_on>2022-10-03 19:43:23</sys_created_on>
+            <sys_id>3d8257b1dbfed1105b6272c7f4961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>suggested_watering_schedule</sys_name>
             <sys_package display_value="Mushnik's Plants" source="x_snc_plants_db">a474e7718792d510ab680f65dabb3508</sys_package>
             <sys_policy/>
             <sys_scope display_value="Mushnik's Plants">a474e7718792d510ab680f65dabb3508</sys_scope>
             <sys_update_name>sys_choice_x_snc_plants_db_plantipedia_suggested_watering_schedule</sys_update_name>
+            <sys_updated_by>namrataghorpade</sys_updated_by>
+            <sys_updated_on>2022-10-28 10:36:04</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -26,6 +30,10 @@
             <sys_created_on>2022-10-03 19:43:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>798257b1dbfed1105b6272c7f4961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>namrataghorpade</sys_updated_by>
+            <sys_updated_on>2022-10-28 10:36:04</sys_updated_on>
             <value>daily</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -42,6 +50,10 @@
             <sys_created_on>2022-10-03 19:43:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>b58257b1dbfed1105b6272c7f496198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>namrataghorpade</sys_updated_by>
+            <sys_updated_on>2022-10-28 10:36:04</sys_updated_on>
             <value>weekly</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -58,6 +70,10 @@
             <sys_created_on>2022-10-03 19:43:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>758257b1dbfed1105b6272c7f496198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>namrataghorpade</sys_updated_by>
+            <sys_updated_on>2022-10-28 10:36:04</sys_updated_on>
             <value>monthly</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -74,6 +90,10 @@
             <sys_created_on>2022-10-03 19:43:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>358257b1dbfed1105b6272c7f496198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>namrataghorpade</sys_updated_by>
+            <sys_updated_on>2022-10-28 10:36:04</sys_updated_on>
             <value>other_check_notes</value>
         </sys_choice>
     </sys_choice>
